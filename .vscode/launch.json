@@ -1,3 +1,4 @@
+/*
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -5,10 +6,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "msedge",
+            "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\tlden\\Documents\\GitHub\\tldenney97.github.io\\PortfolioWebsite\\index.html"
+            "file": "c:\\Users\\tlden\\Documents\\GitHub\\tldenney97.github.io\\index.html"
         }
     ]
-}
+}*/
